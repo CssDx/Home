@@ -1,0 +1,159 @@
+@media screen and (min-width: 200px) and (max-width: 400px)
+{     
+  body.home {
+    background-image: url('1620215065_3-phonoteka_org-p-belii-fon-bez-risunka-gorizontalnaya-3.jpg');
+    background-repeat: no-repeat;
+    background-position: 30% 10%;
+    background-size:cover;
+  }
+  body.igra{
+    background-image: url('scale_1200.jpg');
+    background-repeat: no-repeat;
+    background-position: 30% 0%;
+    background-size:cover;
+
+  }
+  div.wrapper {
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  img {
+    width: 80%;
+  }
+
+  a { 
+      text-decoration: none;
+  } 
+  a:hover {
+    text-decoration: underline;
+  }
+
+  head.1{
+  text-decoration:  underline;
+
+  color: #ffffff;
+
+
+   }
+}
+@media screen and (min-width: 400px) and (max-width: 850px){
+body.home {
+  background-image: url('1620215065_3-phonoteka_org-p-belii-fon-bez-risunka-gorizontalnaya-3.jpg');
+  background-repeat: no-repeat;
+  background-position: 20% 50%;
+  background-size:cover;
+}
+body.igra{
+  background-image: url('scale_1200.jpg');
+  background-repeat: no-repeat;
+  background-position: 20% 50%;
+  background-size:cover;
+
+}
+div.wrapper {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+img {
+  width: 10%;
+}
+
+a { 
+    text-decoration: none;
+} 
+a:hover {
+  text-decoration: underline;
+}
+
+head.1{
+text-decoration:  underline;
+
+color: #ffffff;
+
+
+ }
+}
+@media screen and (min-width: 850px) and (max-width: 1024px){
+  body.home {
+  background-image: url('1620215065_3-phonoteka_org-p-belii-fon-bez-risunka-gorizontalnaya-3.jpg');
+  background-repeat: no-repeat;
+  background-position: 0% 10%;
+  background-size:cover;
+}
+body.igra{
+  background-image: url('scale_1200.jpg');
+  background-repeat: no-repeat;
+  background-position: 0% 10%;
+  background-size:cover;
+
+}
+div.wrapper {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+img {
+  width: 50%;
+}
+
+a { 
+    text-decoration: none;
+} 
+a:hover {
+  text-decoration: underline;
+}
+
+head.1{
+text-decoration:  underline;
+
+color: #ffffff;
+
+
+ }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 2560px)
+{     
+  body.home {
+    background-image: url('1620215065_3-phonoteka_org-p-belii-fon-bez-risunka-gorizontalnaya-3.jpg');
+    background-repeat: no-repeat;
+    background-position: 0% 10%;
+    background-size:cover;
+  }
+  body.igra{
+    background-image: url('scale_1200.jpg');
+    background-repeat: no-repeat;
+    background-position: 0% 10%;
+    background-size:cover;
+
+  }
+  div.wrapper {
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  img {
+    width: 50%;
+  }
+
+  a { 
+      text-decoration: none;
+  } 
+  a:hover {
+    text-decoration: underline;
+  }
+
+  head.1{
+  text-decoration:  underline;
+
+  color: #ffffff;
+
+
+   }
+}
